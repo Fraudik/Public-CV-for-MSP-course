@@ -1,1 +1,3 @@
-# Public-CV-for-MSP-course
+# Pdf of CV
+
+Блинов Илья Игоревич, КНАД 212
